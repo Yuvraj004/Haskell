@@ -6,7 +6,7 @@ Done :: Fibonacci Sequence: Write a program that generates the Fibonacci sequenc
 
 Done :: Factorial Calculator: Create a program that calculates the factorial of a given number.
 
-Palindrome Checker: Write a function that checks if a given word or phrase is a palindrome.
+Done Palindrome Checker: Write a function that checks if a given word or phrase is a palindrome.
 
 Simple File Reader: Write a program that reads a file and outputs its contents.
 
